@@ -6,7 +6,7 @@ Batch file for downloading lots of musics from youtube
 _This project requires [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [ffmpeg](https://ffmpeg.org/)._
 
 - Include the `yt-dlp.exe` file in the same folder as the batch file
-- Ensure ffmpeg is installed as a Path variable [instructions](/help/ffmpeg-path.md)
+- Ensure ffmpeg is installed as a Path variable ([instructions](/help/ffmpeg-path.md))
 
 Then it's as easy as running the `main.bat` file and pasting in your YouTube links!
 
